@@ -2,4 +2,7 @@
 to do list to practice  SASS and JS 
 
 
-(Live version)[https://loonyt.github.io/responsiveAndBeautifulToDoList/] 
+ Click there to check the [Live version](https://loonyt.github.io/responsiveAndBeautifulToDoList/)
+
+
+
